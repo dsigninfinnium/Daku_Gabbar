@@ -1,1 +1,1 @@
-Basic GitHub Tsting
+Basic GitHub Testing
