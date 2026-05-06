@@ -1,0 +1,1 @@
+A bug occurs intermittently without a clear pattern. QA executes the same steps multiple times, sometimes seeing the issue and sometimes not. This inconsistency makes it difficult to isolate the root cause, leading to prolonged debugging and repeated testing cycles.
